@@ -1,0 +1,4 @@
+name: InventoryAPI
+version: '${project.version}'
+main: me.oneqxz.inventoryapi.PaperInventoryAPI
+api-version: '1.20'
